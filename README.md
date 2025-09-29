@@ -44,7 +44,7 @@ A file named scerect.txt.zip will appear.
 Password Cracking with John the Ripper
 
 ## OUTPUT:
-Step 10: Result
+Step 8: Result
 • The terminal will display the filename and its cracked password.
 
 
