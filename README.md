@@ -30,7 +30,6 @@ A file named scerect.txt.zip will appear.
 • Open hash.txt to ensure it contains the hash line.
 <img width="848" height="456" alt="step 7" src="https://github.com/user-attachments/assets/9df5edbe-24b7-44bd-8c01-4220b935dad6" />
 
-
 ### Step 6:Start Cracking the Password
 • Run:
 <img width="936" height="422" alt="step 8" src="https://github.com/user-attachments/assets/c748267a-a773-4787-b776-a63a91a0f719" />
@@ -39,16 +38,12 @@ A file named scerect.txt.zip will appear.
 • After cracking is complete, reveal the password using:
 <img width="1047" height="183" alt="step 9" src="https://github.com/user-attachments/assets/b3b7f0c5-eda7-4343-9376-c6b05452d5c5" />
 
-
 ## PROGRAM:
 Password Cracking with John the Ripper
 
 ## OUTPUT:
 Step 8: Result
 • The terminal will display the filename and its cracked password.
-
-
-
 
 ## RESULT:
 The password hashes were successfully cracked using John the Ripper.
