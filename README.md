@@ -42,8 +42,7 @@ A file named scerect.txt.zip will appear.
 Password Cracking with John the Ripper
 
 ## OUTPUT:
-Step 8: Result
-• The terminal will display the filename and its cracked password.
+![dfdi - 3](https://github.com/user-attachments/assets/4b62d836-d6ff-428e-9dd7-52ee981f00d5)
 
 ## RESULT:
 The password hashes were successfully cracked using John the Ripper.
